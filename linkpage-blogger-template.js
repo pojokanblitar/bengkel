@@ -13,8 +13,7 @@
     Terima kasih sudah menggunakan karya saya. :)
 
     Salam,
-    KangRian.NET
-
+ 
     Terakhir Diperbarui : 7/6/2022 @ 12:09
 
 ================================================================================================ */
